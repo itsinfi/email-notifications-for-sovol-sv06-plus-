@@ -1,0 +1,8 @@
+{
+    "ip": "123.456.7.8",
+    "refreshRateInMinutes": "5",
+    "threshold": "20.0",
+    "emails": ["example@domain.com", "example2@domain.com"],
+    "sovolUIlanguage": "DE",
+    "printingDoneMessage": "Your printer has finished printing."
+}
